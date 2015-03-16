@@ -1,4 +1,4 @@
-package fizzbuzz;
+package com.gro.fizzbuzz;
 
 /**
  * Created by gro on 16/03/15.

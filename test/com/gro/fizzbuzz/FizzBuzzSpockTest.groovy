@@ -1,4 +1,4 @@
-package fizzbuzz
+package com.gro.fizzbuzz
 
 import spock.lang.Shared
 import spock.lang.Specification
