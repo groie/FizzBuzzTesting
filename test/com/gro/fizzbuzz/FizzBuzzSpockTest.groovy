@@ -10,7 +10,7 @@ import spock.lang.Unroll
 class FizzBuzzSpockTest extends Specification {
 
 
-    @Shared FizzBuzz fizzBuzz = new FizzBuzzImpl()
+    def fizzBuzz = new FizzBuzzImpl()
 
     @Unroll("Fizzify buzzifies #source to #expected")
     def "Fizzify fizzifies correctly"() {
