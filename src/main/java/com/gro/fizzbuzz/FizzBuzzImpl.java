@@ -5,7 +5,6 @@ package com.gro.fizzbuzz;
  */
 public class FizzBuzzImpl implements FizzBuzz {
 
-    @Override
     public String fizzify(Integer number) {
         StringBuilder sb = new StringBuilder();
         boolean by3 = dividesBy(number, 3);

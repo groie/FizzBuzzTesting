@@ -52,3 +52,4 @@ crashlytics-build.properties
 /.idea/libraries
 .DS_Store
 /build
+/bin/
